@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="success_add">Added to favourite</string>
+    <string name="delete_fav">Removed from favourite</string>
+    <string name="null_data">Null Data</string>
+    <string name="setting">Settings</string>
+
+    <string name="key_reminder">reminder</string>
+    <string name="switch_reminder_title">Reminder at 9.00 AM</string>
+</resources>
